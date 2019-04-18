@@ -1,29 +1,12 @@
 ## Welcome to the book store
 
-You can use the [editor on GitHub](https://github.com/nmrtmore/Books/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this platform for books' buying selling
 
-for book
-# 
-## Header 2
-### Header 3
+### [For selling](https://docs.google.com/document/d/105dQNMZZybILzFg1eLgXmOcXVW8ia6udNgZcq4g8y14/edit?usp=sharing)
+### [For rent](https://docs.google.com/document/d/1I4DI5CQwe1_jslC8a9Cg53iqSLfg4JMQTzIP9d2hBXE/edit?usp=sharing)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmrtmore/Books/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation]() or [contact support](avpatil@mitaoe.ac.in) and we’ll help you sort it out.
